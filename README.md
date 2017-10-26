@@ -8,6 +8,8 @@
 
  - Its structure is two basic convolutional neural networks. This python code can draw either the first one or the second one by one channel. The first one has 32 channels and the second has 64.
 
+*********************
+
 ## How to use
 
  - You just need to change the switch `` train_first `` to choose which convolutional neural network to draw. And change the 
